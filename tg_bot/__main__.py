@@ -28,19 +28,27 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
+┈╭━━━━━━━━━━━╮┈
+┈┃╭━━━╮┊╭━━━╮┃┈
+╭┫┃┈▇┈┃┊┃┈▇┈┃┣╮
+┃┃╰━━━╯┊╰━━━╯┃┃
+╰┫╭━╮╰━━━╯╭━╮┣╯
+┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈
+┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈
+┈╰━━━━━━━━━━━╯┈
 
 
-HOI    {}, MY NAME IS {} !
+അല്ല ആരാ  {}, എന്റെ പേര്{} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+എന്ന ഉണ്ടാക്കിയത് ഈ 
 
-[THIS LEGEND](tg://user?id={}).
+[THIS KING](tg://user?id={}).
 
-HIT HELP FOR COMMANDS  /help
+ഞാൻ മുഴുവനായും ഓപ്പൺ സോഴ്സ് ആണ് 
 
-I AM COMPLETELY OPEN SOURCE
 
-MY SOURCE CODE IS AVAILABLE TO YOU
+
+എന്നെ ക്ലോൺ ചെയ്യുവാൻ ഇവിടെ തൊടുക 
 
 [HERE](https://github.com/piku-adhi/appolo)
 
@@ -48,7 +56,7 @@ MY SOURCE CODE IS AVAILABLE TO YOU
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+ഹലോ! എന്റെ പേര് *{}*.
 
 *Main* commands available:
  - /start: start the bot
