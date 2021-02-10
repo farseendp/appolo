@@ -40,19 +40,27 @@ HIT HELP FOR COMMANDS  /help
 
 I AM COMPLETELY OPEN SOURCE
 
-┈╭━━━━━━━━━━━╮┈
-┈┃╭━━━╮┊╭━━━╮┃┈
-╭┫┃┈▇┈┃┊┃┈▇┈┃┣╮
-┃┃╰━━━╯┊╰━━━╯┃┃
-╰┫╭━╮╰━━━╯╭━╮┣╯
-┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈
-┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈
-┈╰━━━━━━━━━━━╯┈
+┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈╭━━━
+┈┈┈╭━━╮┈┈┈┈┈┃RAWR
+┈┈╭╯┊◣╰━━━╮┈╰┳━━
+┈┈┃┊┊┊╱▽▽▽┛┈┈┃┈┈
+┈┈┃┊┊┊▏━━━━━━╯┈┈
+━━╯┊┊┊╲△△△┓┈┈┈┈┈
+┊┊┊┊╭━━━━━╯┈┈┈┈┈
+
+
+
+
+
+
+
+
 
 
 MY SOURCE CODE IS AVAILABLE TO YOU
 
-[HERE](https://github.com/piku-adhi/appolo)
+[HERE](https://github.com/farseendp/appolo)
 
 """
 
